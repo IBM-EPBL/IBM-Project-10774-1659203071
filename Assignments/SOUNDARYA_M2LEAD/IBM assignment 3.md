@@ -1,6 +1,0 @@
-IBM Assignment - 3 
-
-
-Link to the solution for assignment 3 in google collab
-
-[Click here](https://colab.research.google.com/drive/1I-Y041WAqx0szeaBIS9Cip9UK-d3FZaV?usp=sharing)
