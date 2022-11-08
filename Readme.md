@@ -1,7 +1,9 @@
-IBM Project 
+𝗜𝗕𝗠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 - Corporate Employee Attrition Analysis
+-------------------------------------------------------------------------------------------------------
 
+Domain: Data Analytics
 
-Corporate Employee Attrition Analysis
+Team ID: PNT2022TMID14579
 
 Team Members 
 
