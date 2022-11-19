@@ -1,4 +1,4 @@
-# 𝗜𝗕𝗠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 - Corporate Employee Attrition Analysis
+# 𝗜𝗕𝗠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 - Corporate Employee Attrition Analytics
 -------------------------------------------------------------------------------------------------------
 
 Domain: Data Analytics
